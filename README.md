@@ -1,5 +1,5 @@
 # DBS-Project
-DBS Project for coursework:
+DBS Project for coursework: \n
 The Railway Reservation System aims to revolutionize the management of train schedules, passenger 
 bookings, cancellations, and refunds. Administrators can seamlessly add new trains to the system, updating vital information on routes, available classes, fares, and departure dates. These crucial 
 functionalities are designed to enhance efficiency and accuracy in the system's operation. Meanwhile, users 
@@ -10,7 +10,7 @@ where users can easily cancel bookings and claim refunds, all within a secure an
 a focus on simplicity and functionality, this Railway Reservation System promises passengers a seamless and enjoyable
 experience, ushering in a new era of railway travel convenience.
 
-Scope:
+# Scope: \n
 The scope of the Railway Reservation System includes:
 Implementation of a two-level system: Administrator and User.
 Administrator Rights:
