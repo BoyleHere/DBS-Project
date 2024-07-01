@@ -1,4 +1,4 @@
-# DBS-Project
+# Railway Management System
 DBS Project for coursework: <br />
 The Railway Reservation System aims to revolutionize the management of train schedules, passenger 
 bookings, cancellations, and refunds. Administrators can seamlessly add new trains to the system, updating vital information on routes, available classes, fares, and departure dates. These crucial 
@@ -10,7 +10,7 @@ where users can easily cancel bookings and claim refunds, all within a secure an
 a focus on simplicity and functionality, this Railway Reservation System promises passengers a seamless and enjoyable
 experience, ushering in a new era of railway travel convenience.
 
-# Scope: <br />
+# Scope <br />
 The scope of the Railway Reservation System includes:
 Implementation of a two-level system: Administrator and User.
 Administrator Rights:
@@ -34,7 +34,9 @@ User Level:
 • All passengers on a PNR must travel in the same class.
 • No reservation available for any specific category.
 • Only one booking allowed per user for a particular journey.
-# railway-management-system
+
+# How to install & Test
+
 Railway Management System website built as course project in DBMS subject,B.Tech. Used SQL , html ,css and php.
 
 To install and run on your pc:-
